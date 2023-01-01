@@ -1,0 +1,1 @@
+globalThis.defaultDesiredBPM = 90
